@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "William Dalpe, Dating Coach"
+title                    : "Bill Dalpe"
 title_separator          : "-"
-name                     : "William Dalpe"
-description              : "Dating Coach"
-url                      : http://williamdalpe.com
+name                     : "Bill Dalpe"
+description              : "Basic Bill"
+url                      : http://williamdalpe.engineering
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "williamdalpe"
+    shortname            : "billdalpe-com"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -48,10 +48,10 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "Lv714RcZCbVP3m-b4iY_kZGuznSZqrsPtzYAuHo6zr8"
 bing_site_verification   : "7D866336EBF5D0BAD8327269CD856D25"
 alexa_site_verification  :
-yandex_site_verification : "b568e7bac1112a2b"
+yandex_site_verification : "a6bc1734ec105007"
 
 # Social Sharing
 twitter:
@@ -72,14 +72,14 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-34067232-6"
+    tracking_id          : "UA-98420051-1"
 
 
 # Site Author
 author:
-  name             : "Dapper Dalpe"
-  avatar           : "/assets/images/pimppony.png"
-  bio              : "Dating Coach"
+  name             : "Bill Dalpe"
+  avatar           : "/assets/images/Fabio.gif"
+  bio              : "Party Planner"
   location         : "Massachusetts"
   email            :
   uri              : "http://lmgtfy.com/?q=who+is+William+Dalpe"
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/watch?v=oGf0UXq9V3s"
+  youtube          : "https://www.youtube.com/watch?v=eZMBk03Xz04"
 
 
 # Reading Files
